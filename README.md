@@ -24,13 +24,13 @@ This is a shared repository for the team's group project for CPEN 321 at UBC. Th
   
   
 Main Menu  
-<img src="images/main_menu.png" align="left" height="1123" width="540">  
+<img src="images/main_menu.png" height="1123" width="540">  
   
 Gameplay  
   
-<img src="images/gameplay.png" align="left" height="1123" width="540">  
+<img src="images/gameplay.png" height="1123" width="540">  
   
 Add Course  
   
-<img src="images/add_course.png" align="left" height="1123" width="540">  
+<img src="images/add_course.png" height="1123" width="540">  
 
