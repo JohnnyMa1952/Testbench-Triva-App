@@ -17,7 +17,7 @@ This is a shared repository for the team's group project for CPEN 321 at UBC. Th
   *Player Statistic for each course  
   *Live Emojis
 
-[Powerpoint presentation](https://docs.google.com/presentation/d/16KwkZB6eJynKuqB1Zw6rj3CaH_yFGLVtBpa8pTn1Azw/edit?usp=sharing)
+# [Powerpoint presentation](https://docs.google.com/presentation/d/16KwkZB6eJynKuqB1Zw6rj3CaH_yFGLVtBpa8pTn1Azw/edit?usp=sharing)
   
   
 ## Images  
